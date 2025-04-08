@@ -1,10 +1,9 @@
 export default function decorate(block) {
-    block.innerHTML = `
+  block.innerHTML = `
       <div class="homepage-banner">
         <a href="/sale">
-          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          Test
         </a>
       </div>
     `;
-  }
-  
+}
